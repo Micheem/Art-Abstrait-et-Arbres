@@ -1,0 +1,24 @@
+Art Abstrait et Arbres - Projet ASD3
+Binôme : NOM1 Prénom1 / NOM2 Prénom2
+
+== Compilation ==
+(depuis le répertoire qui contient Nom1Nom2)
+javac -source 1.8 -target 1.8 -d Nom1Nom2/bin Nom1Nom2/src/*.java
+
+== Exécution ==
+java -classpath Nom1Nom2/bin Main [args]
+
+== Stratégie 1 (énoncé) ==
+Arguments, dans l'ordre :
+strategie largeur hauteur nbFeuillesAdiviser minDimensionCoupe largeurLigne variante fichier
+
+(à compléter)
+
+== Stratégie 2 (notre stratégie) ==
+(à compléter : principe, paramètres, exemple de commande)
+
+== Choix et conventions ==
+(à compléter : position des lignes, variante A, etc.)
+
+== Tests ==
+(à compléter : description des fichiers du dossier tests/)

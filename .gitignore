@@ -1,0 +1,7 @@
+# Fichiers compilés
+Nom1Nom2/bin/
+*.class
+
+# Système
+.DS_Store
+Thumbs.db
