@@ -1,12 +1,12 @@
 Art Abstrait et Arbres - Projet ASD3
-Binôme : NOM1 Prénom1 / NOM2 Prénom2
+Binôme : MANON / EDZAKOUANI
 
 == Compilation ==
-(depuis le répertoire qui contient Nom1Nom2)
-javac -source 1.8 -target 1.8 -d Nom1Nom2/bin Nom1Nom2/src/*.java
+(depuis le répertoire qui contient ManonEdzakouani)
+javac -source 1.8 -target 1.8 -d ManonEdzakouani/bin ManonEdzakouani/src/*.java
 
 == Exécution ==
-java -classpath Nom1Nom2/bin Main [args]
+java -classpath ManonEdzakouani/bin Main [args]
 
 == Stratégie 1 (énoncé) ==
 Arguments, dans l'ordre :
